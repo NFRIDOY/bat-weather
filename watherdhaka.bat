@@ -1,5 +1,5 @@
 @echo off
 
-curl wttr.in/dhaka
+curl wttr.in/rangpur
 
 pause
